@@ -10,5 +10,5 @@ Gherkin syntax highlighting for Notepad++ (http://notepad-plus-plus.org)
 For detailed information on UDL see [User Defined Language Online Documenation](http://udl20.weebly.com/index.html).
 
 ## JBehave and Cucumber
-How JBehave uses Gherkin: https://jbehave.org/reference/stable/
+How JBehave uses Gherkin: https://jbehave.org/reference/stable/   
 How Cucumber used Gherkin: https://docs.cucumber.io/gherkin/
